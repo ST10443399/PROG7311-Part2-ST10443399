@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FpG3yX4lVf0=",
+  "dgSpecHash": "oIKPGiCWttw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\PROG7311\\PROG7311_ST10443399_POE\\GLMS_Tests\\GLMS_Tests.csproj",
+  "projectFilePath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\GLMS_Tests\\GLMS_Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lab_services_student\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
