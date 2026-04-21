@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA4710CC-57AD-92F1-60AD-23556A50693C}|PROG7311_ST10443399_POE\\PROG7311_ST10443399_POE.csproj|c:\\users\\lab_services_student\\documents\\github\\prog7311-part2-st10443399\\prog7311_st10443399_poe\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4710CC-57AD-92F1-60AD-23556A50693C}|PROG7311_ST10443399_POE\\PROG7311_ST10443399_POE.csproj|solutionrelative:prog7311_st10443399_poe\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA4710CC-57AD-92F1-60AD-23556A50693C}|PROG7311_ST10443399_POE\\PROG7311_ST10443399_POE.csproj|c:\\users\\lab_services_student\\documents\\github\\prog7311-part2-st10443399\\prog7311_st10443399_poe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AA4710CC-57AD-92F1-60AD-23556A50693C}|PROG7311_ST10443399_POE\\PROG7311_ST10443399_POE.csproj|solutionrelative:prog7311_st10443399_poe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -39,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ContractsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Controllers\\ContractsController.cs",
+              "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\Controllers\\ContractsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Controllers\\ContractsController.cs",
+              "RelativeToolTip": "PROG7311_ST10443399_POE\\Controllers\\ContractsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:07:58.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\appsettings.json",
               "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\appsettings.json",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\appsettings.json",
               "RelativeToolTip": "PROG7311_ST10443399_POE\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-20T20:17:18.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\Data\\ApplicationDbContext.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "PROG7311_ST10443399_POE\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T20:11:12.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T20:11:12.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ServiceRequest.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Models\\ServiceRequest.cs",
               "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\Models\\ServiceRequest.cs",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "PROG7311_ST10443399_POE\\Models\\ServiceRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T20:00:42.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T20:00:42.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Contract.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Models\\Contract.cs",
               "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\Models\\Contract.cs",
@@ -85,12 +100,11 @@
               "RelativeToolTip": "PROG7311_ST10443399_POE\\Models\\Contract.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T19:45:13.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T19:45:13.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Models\\Client.cs",
               "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\Models\\Client.cs",
@@ -98,12 +112,11 @@
               "RelativeToolTip": "PROG7311_ST10443399_POE\\Models\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T19:33:02.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T19:33:02.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\GLMS_Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "GLMS_Tests\\UnitTest1.cs",
@@ -111,8 +124,7 @@
               "RelativeToolTip": "GLMS_Tests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T19:21:16.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T19:21:16.425Z"
             }
           ]
         }
