@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA4710CC-57AD-92F1-60AD-23556A50693C}|PROG7311_ST10443399_POE\\PROG7311_ST10443399_POE.csproj|c:\\users\\lab_services_student\\documents\\github\\prog7311-part2-st10443399\\prog7311_st10443399_poe\\views\\contracts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA4710CC-57AD-92F1-60AD-23556A50693C}|PROG7311_ST10443399_POE\\PROG7311_ST10443399_POE.csproj|solutionrelative:prog7311_st10443399_poe\\views\\contracts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA4710CC-57AD-92F1-60AD-23556A50693C}|PROG7311_ST10443399_POE\\PROG7311_ST10443399_POE.csproj|c:\\users\\lab_services_student\\documents\\github\\prog7311-part2-st10443399\\prog7311_st10443399_poe\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA4710CC-57AD-92F1-60AD-23556A50693C}|PROG7311_ST10443399_POE\\PROG7311_ST10443399_POE.csproj|solutionrelative:prog7311_st10443399_poe\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,19 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Views\\Contracts\\Index.cshtml",
+              "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\Views\\Contracts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Views\\Contracts\\Index.cshtml",
+              "RelativeToolTip": "PROG7311_ST10443399_POE\\Views\\Contracts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T06:31:53.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ServiceRequestsController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Controllers\\ServiceRequestsController.cs",
               "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\Controllers\\ServiceRequestsController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Controllers\\ServiceRequestsController.cs",
               "RelativeToolTip": "PROG7311_ST10443399_POE\\Controllers\\ServiceRequestsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T06:21:17.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ContractsController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Controllers\\ContractsController.cs",
               "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\Controllers\\ContractsController.cs",
@@ -67,12 +84,11 @@
               "RelativeToolTip": "PROG7311_ST10443399_POE\\Controllers\\ContractsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T06:07:58.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T06:07:58.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\appsettings.json",
               "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\appsettings.json",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\Data\\ApplicationDbContext.cs",
@@ -96,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ServiceRequest.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Models\\ServiceRequest.cs",
               "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\Models\\ServiceRequest.cs",
@@ -108,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Contract.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Models\\Contract.cs",
               "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\Models\\Contract.cs",
@@ -120,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\PROG7311_ST10443399_POE\\Models\\Client.cs",
               "RelativeDocumentMoniker": "PROG7311_ST10443399_POE\\Models\\Client.cs",
@@ -132,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-Part2-ST10443399\\GLMS_Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "GLMS_Tests\\UnitTest1.cs",
